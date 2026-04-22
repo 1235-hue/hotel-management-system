@@ -1,0 +1,9 @@
+{
+  "name": "hotel-management-system",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "build": "npm --prefix frontend run build",
+    "install:frontend": "npm --prefix frontend install"
+  }
+}
